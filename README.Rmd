@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 ## Overview
 
 Phyttol_v2 is a web application allows, for phytoplankton, the homogenization between the taxonomic nomenclatures used by molecular (e.g. metabarcoding) and morphological (e.g. microscopy) approaches.
-This application has been build with the R-package shiny which allows the creation of interactive web application from the open-source R sofware.
+This application has been build with the R-package shiny which allows the creation of interactive web application from the open-source R software.
 
 ## Utilization
 
