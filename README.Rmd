@@ -21,7 +21,7 @@ This application has been build with the R-package shiny which allows the creati
 
 ## Utilization
 
-We can accessed to the web application [here](https://github-carrtel.shinyapps.io/phytool_v2)
+We can access the web application [here](https://github-carrtel.shinyapps.io/phytool_v2)
 
 ## Version of packages used to create the web application
 ```{r, eval = FALSE}
