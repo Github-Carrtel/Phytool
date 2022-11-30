@@ -14,10 +14,10 @@ sofware.
 
 ## Utilization
 
-We can accessed to the web application
+We can access the web application
 [here](https://github-carrtel.shinyapps.io/phytool_v2)
 
-## Version of packages used to build the web application
+## Version of packages used to create the web application
 
 ``` r
 sessionInfo()
