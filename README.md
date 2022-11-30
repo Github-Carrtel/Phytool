@@ -10,7 +10,7 @@ homogenization between the taxonomic nomenclatures used by molecular
 (e.g. metabarcoding) and morphological (e.g. microscopy) approaches.
 This application has been build with the R-package shiny which allows
 the creation of interactive web application from the open-source R
-sofware.
+software.
 
 ## Utilization
 
