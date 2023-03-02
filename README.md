@@ -12,6 +12,9 @@ This application has been build with the R-package shiny which allows
 the creation of interactive web application from the open-source R
 software.
 
+This application was produced as part of the article:
+>Canino A., Bouchez A., Laplace-Treyture C., Domaizon I., Rimet F. 2021. Phytool, a ShinyApp to homogenise taxonomy of freshwater microalgae form DNA barcodes and microscopic observations. *Metabarcoding & Metagenomics*, 5: 199-205. https://doi.org/10.3897/mbmg.5.74096
+
 ## Utilization
 
 We can access the web application
